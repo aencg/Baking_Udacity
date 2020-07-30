@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:style="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:orientation="horizontal">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_marginVertical="@dimen/item_step_margin_vertical"
+    android:layout_marginHorizontal="@dimen/item_step_margin_horizontal"
+    android:padding="@dimen/item_step_padding">
+    <TextView
+        android:id="@+id/tv_number_step"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        style="@style/item_step_text"/>
+
+    <TextView
+        android:id="@+id/tv_step_short"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/item_step_margin_between_texts"
+        android:layout_marginLeft="@dimen/item_step_margin_between_texts"
+        android:gravity="center_vertical"
+        style="@style/item_step_text"
+        app:layout_constraintTop_toTopOf="parent" />
+</LinearLayout>
+
+</RelativeLayout>

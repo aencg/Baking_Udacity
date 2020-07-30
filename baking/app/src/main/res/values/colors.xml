@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="background_grey">#e4e6ef</color>
+
+    <array name="recipe_colors">
+        <item>#6ac0ae</item>
+        <item>#9ec5a7</item>
+        <item>#c7db9d</item>
+        <item>#ebc09e</item>
+        <item>#f9a5a5</item>
+    </array>
+
+    <color name="widget_background_color">#F0F4C3</color>
+    <color name="widget_list_item_color">#CDDC39</color>
+    <color name="widget_text_color">#212121</color>
+
+    <color name="text_color">#313131</color>
+
+    <color name="item_recipe_label_color">@color/background_grey</color>
+
+    <color name="step_selected_color">#03DAC5</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="step_button_color">#CCCCCC</color>
+</resources>

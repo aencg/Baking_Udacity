@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="widget_margin">0dp</dimen>
+    <dimen name="widget_padding">8dp</dimen>
+    <dimen name="widget_list_item_padding">8dp</dimen>
+    <dimen name="widget_list_item_margin">4dp</dimen>
+    <dimen name="widget_list_item_text_size">16sp</dimen>
+
+    <dimen name="item_step_text_size">16sp</dimen>
+
+    <dimen name="item_step_margin_horizontal">8dp</dimen>
+    <dimen name="item_step_padding">16dp</dimen>
+    <dimen name="item_step_margin_between_texts">16dp</dimen>
+    <dimen name="item_step_margin_vertical">0dp</dimen>
+
+    <dimen name="item_recipe_padding_text">16dp</dimen>
+    <dimen name="item_recipe_height">240dp</dimen>
+    <dimen name="item_recipe_margin">10dp</dimen>
+    <dimen name="item_image_h_weight">4</dimen>
+
+    <dimen name="step_fragment_button_text_size">16sp</dimen>
+    <dimen name="step_fragment_button_margin">16dp</dimen>
+    <dimen name="step_fragment_button_padding">16dp</dimen>
+    <dimen name="step_fragment_description_padding">16dp</dimen>
+    <dimen name="step_fragment_description_text_size">16sp</dimen>
+
+    <dimen name="widget_config_title_margin">16dp</dimen>
+    <dimen name="widget_config_title_textsize">16sp</dimen>
+
+    <dimen name="activity_main_texterror_size">16sp</dimen>
+
+    <dimen name="recipe_activity_title_size">32sp</dimen>
+    <dimen name="recipe_activity_title_margin">8dp</dimen>
+    <dimen name="recipe_activity_image_height">300dp</dimen>
+    <dimen name="recipe_activity_ingredients_text_size">16sp</dimen>
+    <dimen name="recipe_activity_ingredients_text_padding">16dp</dimen>
+</resources>
