@@ -70,6 +70,7 @@ public class MainActivity extends AppCompatActivity implements RecipesAdapter.Re
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setTheme(R.style.AppTheme);
         setContentView(R.layout.activity_main);
 
         textViewEmpty = (TextView) findViewById(R.id.textview_empty_recipes);

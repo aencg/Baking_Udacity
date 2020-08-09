@@ -39,4 +39,10 @@
         <item name="android:padding">@dimen/step_fragment_description_padding</item>
         <item name="android:gravity">start</item>
     </style>
+
+    <style name="splash" parent="AppTheme">
+        <item name="android:windowBackground">
+            @drawable/background_splash
+        </item>
+    </style>
 </resources>

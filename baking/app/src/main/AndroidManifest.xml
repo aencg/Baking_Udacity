@@ -31,7 +31,8 @@
 
         <activity android:name=".ui.StepActivity" />
         <activity android:name=".ui.RecipeDescriptionActivity" />
-        <activity android:name=".ui.MainActivity">
+        <activity android:name=".ui.MainActivity"
+            android:theme="@style/splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
