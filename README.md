@@ -1,6 +1,6 @@
 # Baking_Udacity 
 
-Udacity - Android Developer Nanodegree - Project: Make A Baking App
+## Udacity - Android Developer Nanodegree - Project: Make A Baking App
 
 Create an app to view video recipes. Handle media loading, verify the user interfaces with UI tests, and integrate third party libraries. Also provide a complete user experience with a home screen widget.
 
